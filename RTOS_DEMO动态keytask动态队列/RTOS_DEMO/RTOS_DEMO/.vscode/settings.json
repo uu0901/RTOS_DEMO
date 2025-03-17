@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "delay.h": "c",
+        "usart.h": "c",
+        "aht20.h": "c",
+        "oled.h": "c",
+        "light.h": "c",
+        "main.h": "c",
+        "stm32f10x.h": "c",
+        "task.h": "c",
+        "motor.h": "c",
+        "demo_task.h": "c",
+        "queue.h": "c",
+        "led.h": "c",
+        "key.h": "c",
+        "pwm.h": "c",
+        "sys.h": "c",
+        "adc.h": "c"
+    }
+}
